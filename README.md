@@ -3,6 +3,7 @@
 <b>Business Problem:</b> <br>
 Instacart wants to understand which of products are bought together by their repeat users to more intelligently drive their recommendations and offers.
 
+
 <b>Approach:</b> <br>
 Network analysis was used to understand how each product relates to one another. This allows us to understand which products are most "well connected" and which group types exist. <br>
 In this graph each product is a node and every time two products were purchased in an order counts as a weight in the edge.
